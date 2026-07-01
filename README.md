@@ -7,7 +7,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-UI-85EA2D?style=flat-square&logo=swagger)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-API RESTful para cadastro e autenticação de usuários com arquitetura limpa (Clean Architecture) seguindo princípios de Domain-Driven Design (DDD). Desenvolvida em .NET 10 com Entity Framework Core, SQL Server, autenticação JWT e documentação interativa via Swagger e Scalar.
+API para cadastro e autenticação de usuários com arquitetura limpa (Clean Architecture) seguindo princípios de Domain-Driven Design (DDD). Desenvolvida em .NET 10 com Entity Framework Core, SQL Server, autenticação JWT e documentação interativa via Swagger e Scalar.
 
 ---
 
@@ -310,10 +310,6 @@ UsuariosApp/
 
 ---
 
-## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais informações.
-
----
 
 Desenvolvido com ❤️ usando .NET 10 e Clean Architecture.
