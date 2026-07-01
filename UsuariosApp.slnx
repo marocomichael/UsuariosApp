@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/1 - Application/">
+    <Project Path="UsuariosApp.API/UsuariosApp.API.csproj" />
+  </Folder>
+  <Folder Name="/2 - Domain/">
+    <Project Path="UsuariosApp.Domain/UsuariosApp.Domain.csproj" />
+  </Folder>
+  <Folder Name="/3 - Infrastructure/">
+    <Project Path="UsuariosApp.Infra.Data/UsuariosApp.Infra.Data.csproj" />
+    <Project Path="UsuariosApp.Infra.Security/UsuariosApp.Infra.Security.csproj" Id="558dfe70-a0a1-45fe-8228-e6dcb108b918" />
+  </Folder>
+  <Folder Name="/4 - Tests/">
+    <Project Path="UsuariosApp.Tests/UsuariosApp.Tests.csproj" Id="ad0c0b61-fc25-41ed-83dd-2270a7cd288a" />
+  </Folder>
+  <Folder Name="/Itens de Solução/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+</Solution>
